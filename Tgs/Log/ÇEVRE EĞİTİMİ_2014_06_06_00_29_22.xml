@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Logs Date="2014_06_06_00_29_22">
+  <Log Name="Test" Surname="1" MAdress="uzemsystem@gmail.com" Date="06.06.2014 00:29:14" Sended="true">
+    <SendedMessage><![CDATA[]]></SendedMessage>
+  </Log>
+  <Log Name="Burçak" Surname="Tutan" MAdress="burcak.tutan@tgs.aero" Date="06.06.2014 00:29:16" Sended="true">
+    <SendedMessage><![CDATA[]]></SendedMessage>
+  </Log>
+  <Log Name="Mustafa Barış" Surname="ÖZTÜRK" MAdress="baris.ozturk@tgs.aero" Date="06.06.2014 00:29:19" Sended="true">
+    <SendedMessage><![CDATA[]]></SendedMessage>
+  </Log>
+</Logs>

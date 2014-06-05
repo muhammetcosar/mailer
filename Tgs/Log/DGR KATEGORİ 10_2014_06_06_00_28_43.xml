@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Logs Date="2014_06_06_00_28_43">
+  <Log Name="Test" Surname="1" MAdress="uzemsystem@gmail.com" Date="06.06.2014 00:27:54" Sended="true">
+    <SendedMessage><![CDATA[]]></SendedMessage>
+  </Log>
+  <Log Name="Melih Serkant" Surname="Atasoy" MAdress="melih.atasoy@tgs.aero" Date="06.06.2014 00:28:19" Sended="true">
+    <SendedMessage><![CDATA[]]></SendedMessage>
+  </Log>
+  <Log Name="Ümitcan" Surname="Tekeli" MAdress="umitcan.tekeli@tgs.aero" Date="06.06.2014 00:28:21" Sended="true">
+    <SendedMessage><![CDATA[]]></SendedMessage>
+  </Log>
+  <Log Name="Canberk" Surname="Demirel" MAdress="canberk.demirel@tgs.aero" Date="06.06.2014 00:28:24" Sended="true">
+    <SendedMessage><![CDATA[]]></SendedMessage>
+  </Log>
+  <Log Name="Ahmet" Surname="Öztürk" MAdress="ahmet.ozturk@tgs.aero" Date="06.06.2014 00:28:27" Sended="true">
+    <SendedMessage><![CDATA[]]></SendedMessage>
+  </Log>
+  <Log Name="Galip" Surname="Koldamca" MAdress="galip.koldamca@tgs.aero" Date="06.06.2014 00:28:29" Sended="true">
+    <SendedMessage><![CDATA[]]></SendedMessage>
+  </Log>
+</Logs>
